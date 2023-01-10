@@ -18,3 +18,7 @@ Property Binding ([property] = "data")
 Event Binding ((event)="expression")
 
 ** Combination of Both: Two-Way-Binding ([(ngModel)] = "data")
+
+3. what are directives?
+
+Directives are Instruction in the DOM.
