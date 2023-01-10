@@ -3,3 +3,18 @@
 by CLI: ex.
 
 in Terminal > type: ng generate component servers > a new component set show up
+
+2. What is databinding?
+
+- TypeScript Code (Business Logic) ------Output Data----> Template (HTML)
+
+** Output Data:
+String Interpolation ({{data}})
+Property Binding ([property] = "data")
+
+- TypeScript Code (Business Logic) <------React to (User) Events---- Template (HTML)
+
+** React to (User) Events:
+Event Binding ((event)="expression")
+
+** Combination of Both: Two-Way-Binding ([(ngModel)] = "data")
