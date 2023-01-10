@@ -1,0 +1,5 @@
+1. how to create a new component with shortcut?
+
+by CLI: ex.
+
+in Terminal > type: ng generate component servers > a new component set show up
